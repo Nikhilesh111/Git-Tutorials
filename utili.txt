@@ -1,5 +1,3 @@
-<<<<<<< HEAD
+
 rohit is the gopal 123
-=======
-rohit is the gopal 
->>>>>>> f91b26a7221d9961dbfd3913d35f121a28806d39
+
